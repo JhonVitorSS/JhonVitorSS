@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuniorCintra
+- 👋 Olá, Meu nome é Jhon :relaxed:	
 - 👀 I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJs, React Native and ExpressJS.
 
