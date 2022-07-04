@@ -2,11 +2,11 @@
 - 👀 Tenho interesse em evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.
 - 🌱 Atualmente estou aprendendo HTML, CSS, SASS & Javascript.
 
-# Connect with me:
+# Sobre Mim:
 
-Hi, I'm Junior Cintra. Web development enthusiast and I'm looking for expertise in the frontend area. In addition to the courses, I also manage an altruistic project called DevFast where I help those interested in the area to go a complete way to become frontend developers like me, with that, I'm learning day after day, answering questions and helping with participating studies.
+Olá, sou o Júnior Cintra. Entusiasta de desenvolvimento web e procuro expertise na área de frontend. Além dos cursos, também gerencio um projeto altruísta chamado DevFast onde ajudo os interessados ​​na área a percorrer um caminho completo para se tornarem desenvolvedores frontend como eu, com isso estou aprendendo dia após dia, tirando dúvidas e ajudando estudos participantes.
 
-If you want to interact with me, get in touch with Linkedin, Instagram or WhatsApp below.
+Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsApp abaixo.
 
 <a href="https://www.linkedin.com/in/sergio-cintra-developer/" target="_blank">
   <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
