@@ -33,18 +33,16 @@ Olá, sou o Jhon Vitor. Entusiasta de desenvolvimento web e procuro expertise na
 
 Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsApp abaixo.
 
-<a href="https://www.linkedin.com/in/sergio-cintra-developer/" target="_blank">
-  <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/jhon-vitor-santos-sales-783530232/" target="_blank">
+  <img align="center" alt="junior-linkedin" width="40" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/_juniorcintra/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
+<a href="https://www.instagram.com/jhon_vitor_ss/" target="_blank">
+  <img  align="center"  src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" width='40' style="max-width:100%;"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5548999697551&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
   <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
 </a>
-<a href="https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg" target="_blank">
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/174/174883.png" width='40' style="max-width:100%;"/>
-</a>
+
 
 
 <hr />
