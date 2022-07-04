@@ -50,12 +50,6 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsAp
 
 <hr />
 
-# Portfólio com freelancers
-
-Desenvolvimento de projeto freelancer para gerenciar produtos de uma loja de móveis em suas três lojas. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
-
-http://ubamoveis.com.br
-
 
 <hr />
 
