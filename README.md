@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Jhon :relaxed:	
-- 👀 Tenho interesse em evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.
+- :robot: Tenho interesse em evoluir profissionalmente com foco em desenvolvimento em Front-End.
 - 🌱 Atualmente estou aprendendo HTML, CSS, SASS & Javascript. 
 
 
