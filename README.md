@@ -24,7 +24,7 @@
 
 # Sobre Mim:
 
-Olá, sou o Jhon Vitor. Entusiasta de desenvolvimento web e procuro expertise na área de frontend. Além dos cursos, também gerencio um projeto altruísta chamado DevFast onde ajudo os interessados ​​na área a percorrer um caminho completo para se tornarem desenvolvedores frontend como eu, com isso estou aprendendo dia após dia, tirando dúvidas e ajudando estudos participantes.
+Olá, sou o Jhon Vitor. Entusiasta de desenvolvimento web e procuro expertise na área de frontend.
 
 Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsApp abaixo.
 
