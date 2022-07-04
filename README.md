@@ -41,11 +41,11 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsAp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcintra)](https://github.com/juniorcintra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorcintra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonVitorSS)](https://github.com/JhonVitorSS/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonVitorSSa&show_icons=true&theme=radical)
 
 
- ![Snake animation](https://github.com/juniorcintra/juniorcintra/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JhonVitorSS/JhonVitorSS/blob/output/github-contribution-grid-snake.svg)
 
 
 <hr />
