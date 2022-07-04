@@ -3,11 +3,6 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS, SASS & Javascript. 
 
 
-<div align="center" >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonVitorSS&show_icons=true&count_private=true&hide_border=true&title_color=e67993&icon_color=e67993&text_color=f0f6fc&bg_color=0d1117"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonVitorSS&layout=compact&hide_border=true&title_color=e67993&text_color=f0f6fc&bg_color=0d1117" />
-</div>
-
 <div align="center">
   <h2> Habilidades </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
