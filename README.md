@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é Jhon :relaxed:	
-- 👀 I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
-- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJs, React Native and ExpressJS.
+- 👀 Tenho interesse em evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.
+- 🌱 Atualmente estou aprendendo HTML, CSS, SASS & Javascript.
 
 # Connect with me:
 
