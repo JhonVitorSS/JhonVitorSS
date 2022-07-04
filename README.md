@@ -22,18 +22,19 @@
 
 
 
-# Sobre Mim:
-
-Olá, sou o Jhon Vitor. Entusiasta de desenvolvimento web e procuro expertise na área de frontend.
-
-Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsApp abaixo.
-
 
 
 
 
 
 <div align="center">
+
+
+# Sobre Mim:
+
+Olá, sou o Jhon Vitor. Entusiasta de desenvolvimento web e procuro expertise na área de frontend.
+
+Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsApp abaixo.
 <a href="https://www.linkedin.com/in/jhon-vitor-santos-sales-783530232/" target="_blank">
   <img align="center" alt="junior-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
 </a>
