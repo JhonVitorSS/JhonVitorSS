@@ -45,13 +45,13 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, Instagram ou WhatsAp
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonVitorSSa&show_icons=true&theme=radical)
 
 
- ![Snake animation](https://github.com/JhonVitorSS/JhonVitorSS/blob/output/github-contribution-grid-snake.svg)
 
-
-<hr />
 
 
 <hr />
+
+
+
 
 #### Que o futuro nos reserve dias bons!
 
