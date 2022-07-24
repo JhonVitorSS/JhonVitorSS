@@ -5,7 +5,7 @@
 <div align="center">
 - 👋 Olá, Meu nome é Jhon :relaxed:	<br>
 - :robot: Tenho interesse em evoluir profissionalmente com foco em desenvolvimento Front-End.<br>
-- 🌱 Atualmente estou aprendendo HTML, CSS, SASS & Javascript. 
+- 🌱 Atualmente estou aprendendo HTML, CSS, SASS, Javascript & React. 
 
 
 
